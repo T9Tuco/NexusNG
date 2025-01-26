@@ -13,14 +13,16 @@ NexusNG is an AI-powered assistant designed to enhance the software development 
 ---
 # Follow setup instructions
 🌐 Links
-Official Website
-Chat with NexusNG
+Official Website: https://nexusng.site/
+Chat with NexusNG: https://nexusng.de/
 🖼 Demo
-Here is a screenshot of NexusNG (homepage): https://cdn.discordapp.com/attachments/1297720903744094228/1333063209653108886/image.png?ex=6797875c&is=679635dc&hm=f5b2f072674fc1c537345f2dcf56fa0f80fb756e626b6bce7c8273292318f97e&
+Here is a screenshot of NexusNG (homepage): ![image](https://github.com/user-attachments/assets/ff006b31-c114-48fe-b2de-e482ef973cfa)
 
 
 
-And here is a screenshot of the chatbot in action on NexusNG: https://cdn.discordapp.com/attachments/1297720903744094228/1333064024237019236/image.png?ex=6797881e&is=6796369e&hm=c6c9855e422e115f968a78325bc0320941aed73db2dc3310c2cb707da9e3c93b&  
+
+And here is a screenshot of the chatbot in action on NexusNG: ![image](https://github.com/user-attachments/assets/0a188bb1-1bd4-4653-a817-107dec0850b7)
+
 
 
 
