@@ -13,8 +13,10 @@ NexusNG is an AI-powered assistant designed to enhance the software development 
 ---
 # Follow setup instructions
 🌐 Links
+
 Official Website: https://nexusng.site/
 
+NexusNG Server Status: https://nexusng.site/status.html
 Chat with NexusNG: https://nexusng.de/
 
 🖼 Demo
